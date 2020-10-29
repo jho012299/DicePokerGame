@@ -1,0 +1,63 @@
+#bgimage{
+   -fx-background-image: url("file:./src/casino_background.jpg");
+   -fx-background-repeat: stretch;
+   -fx-background-size: 750 500;
+}
+
+#bgimageOneRain{
+   -fx-background-image: url("file:./src/makeOneRain.gif");
+   -fx-background-repeat: stretch;
+   -fx-background-size: 750 500;
+}
+
+#bgimageMakeItRain{
+   -fx-background-image: url("file:./src/moneyFalling.gif");
+   -fx-background-repeat: stretch;
+   -fx-background-size: 750 500;
+}
+
+#bgimageWonka{
+   -fx-background-image: url("file:./src/wonkaNothing.gif");
+   -fx-background-repeat: stretch;
+   -fx-background-size: 750 500;
+}
+
+#bgimageStraightSolitaire{
+   -fx-background-image: url("file:./src/straightSolitaire.gif");
+   -fx-background-repeat: stretch;
+   -fx-background-size: 750 500;
+}
+
+#bgimageFullHouse{
+   -fx-background-image: url("file:./src/fullHouse.gif");
+   -fx-background-repeat: stretch;
+   -fx-background-size: 750 500;
+}
+
+#bgimageNotBad{
+   -fx-background-image: url("file:./src/notBad.gif");
+   -fx-background-repeat: stretch;
+   -fx-background-size: 750 500;
+}
+
+#bgimageParksRec{
+   -fx-background-image: url("file:./src/parksRec.gif");
+   -fx-background-repeat: stretch;
+   -fx-background-size: 750 500;
+}
+
+#bgimageThanosDance{
+-fx-background-image: url("file:./src/thanosDance.gif");
+   -fx-background-repeat: stretch;
+   -fx-background-size: 750 500;
+}
+
+.label{
+   -fx-font-size: 20pt;
+   -fx-font-weight: bold;
+   -fx-text-fill: #000000
+}
+
+.button{
+   -fx-font-size: 20pt;
+}
